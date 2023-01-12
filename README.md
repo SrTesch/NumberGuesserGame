@@ -1,4 +1,4 @@
-<h1>This is a Game that I've created using just HTML, CSS and Js<h1>
+<h1>This is a Game that I've created using just HTML, CSS and Js</h1>
 
 <p>For play the game, you just have to open the HTML in your browser and enjoy the happiness!</p>
 
